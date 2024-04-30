@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Not Found Page</h2>
   
-  This Theme is fully responsive for all devices, <br/> Built using HTML, CSS, JavaScript.
+  This Theme is fully responsive for all devices, <br/> Built using HTML, CSS and Bootstrap.
   
   <a href="https://cymilad.ir/projects/not-found-page" target="_blank"><strong>➥ Live Demo</strong></a>
   
